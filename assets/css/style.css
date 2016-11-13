@@ -79,6 +79,7 @@ li {
 
 #article p {
 	margin-bottom: 10px;
+	padding: 5px 0px 5px 0px;
 }
 
 #portfolio {
@@ -101,6 +102,25 @@ li {
 
 #portfolio p {
 	margin-bottom: 10px;
+	background-color: #4aaaa5;
+	position:relative;
+	top:-50px;
+	left:10px;
+	text-align: center;
+}
+
+.thumbnail {
+	margin: 10px;
+}
+
+.project {
+	width: 180px;
+	display: inline-block;
+	margin: 10px;
+}
+
+.project img {
+	margin: 10px;
 }
 
 #aside {
